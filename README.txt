@@ -7,4 +7,4 @@ SZUMOVSKI
 . :)
 
 
-szymon pokrywka (netforks.org) 2022
+szymon pokrywka () 2022
